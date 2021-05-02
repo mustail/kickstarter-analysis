@@ -13,19 +13,19 @@ This project aimst to help playwright Louise understand the factors that make Ki
 
 ### Analysis of Outcomes Based on Launch Date
 
-[image embed theater outcomes]
+
+
+![Theater Outcomes by Launch Date](https://github.com/mustail/kickstarter-analysis/blob/689b1fa7a62e47d2b0fa10b3cc8fef07c88342ea/Resources/Theater_Outcomes_vs_Launch.png)
 
 As can be seen from the above chart titled "Theater Outcomes Based on Launch Date," the data at hand shows that those campaigns that were launched in the months of May, June, and July fared the best, followed by April and October.
 
 As for the failed campaigns, while there is a limited correlation between successful campaigns and the failed ones, it can be said that failures were spread more a roughly consistent number of campaigns failed regardless of the launch date. Similarly, a very limited number of campaigns were canceled notwithstanding the timing. This more or less even spread of both the failed and the canceled campaigns indicates that the eventual failure does not directly depend on the timing of the crowdfunding campaign.
 
-Also comparing the Theater subcategory to the rest of the campaigns in the dataset, one can see that there is an uptick in the Fall for most campaigns while the same kind of an increase in success is not replicated for the Theater. See this link for the general outcomes chart:(Resources/Outcomes_based_on_launch_date.png)
-
-(https://github.com/mustail/kickstarter-analysis/blob/80523cf572b242ea002926ec398b288b2dcb97d3/Resources/Outcomes_based_on_launch_date.png)
+Also comparing the Theater subcategory to the rest of the campaigns in the dataset, one can see that there is an uptick in the Fall for most campaigns while the same kind of an increase in success is not replicated for the Theater. See this link for the general outcomes chart: (https://github.com/mustail/kickstarter-analysis/blob/80523cf572b242ea002926ec398b288b2dcb97d3/Resources/Outcomes_based_on_launch_date.png)
 
 ### Analysis of Outcomes Based on Goals
 
-[embed the image goals vs]
+![Plays Outcomes by Funding Goal](https://github.com/mustail/kickstarter-analysis/blob/689b1fa7a62e47d2b0fa10b3cc8fef07c88342ea/Resources/Outcomes_vs_Goals.png)
 
 There is a clear indication that the lower the funding goal is, the higher the rate of success. This is true for the most part with the exception of the funding range between $35,000 and $45,000. This is difficult to explain with the data we have at hand, however, as I discuss below under the section "Challenges and Difficulties," there are two few number of campaigns that make up the data for the campaigns with the highest funding goals.  
 
@@ -41,11 +41,11 @@ Another issue has to do with the limited amount of data for the campaigns with h
 
 ## Results
 
-To launch a theater-related campaign, it seems that the best months are April, May (especially), and the early Summer months of June and July. It makes sense, therefore, that *Louse set up her campaign to launch no later than April, preferably in May*.
+To launch a theater-related campaign, it seems that the best months are April, May (especially), and the early Summer months of June and July. It makes sense, therefore, that *Louise should set up her campaign to launch no later than April, preferably in May*.
 
 Seasonality is a clearer aspect of crowdfunding campaigns in the Theater subcategory. The decline from Summer to Fall is much clearer compared to a still strong showing of all other categories in the Fall. *The earlier in the Spring may be better as success rates for Theater campaigns decline into the middle of the Summer.* 
 
-*Louise should set a moderate funding goal* for her crowdfunding campaign to be successful and should target the category average for her goal maximum.
+*Louise should also set a moderate funding goal* for her crowdfunding campaign to be successful and should target the category average for her goal maximum.
 
 As for the limitations of the data, I would like to cite two: The first is the live campaigns, which we could not use for this assignment. The insight from them would have added to our understanding of the problem. Secondly, as I said above, there are very few entries for certain categories across funding goals. This may be because the dataset is incomplete, or the values are misidentified, or another reason difficult to guess.
 
