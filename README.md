@@ -21,15 +21,17 @@ As can be seen from the above chart titled "Theater Outcomes Based on Launch Dat
 
 As for the failed campaigns, while there is a limited correlation between successful campaigns and the failed ones, it can be said that failures were spread more a roughly consistent number of campaigns failed regardless of the launch date. Similarly, a very limited number of campaigns were canceled notwithstanding the timing. This more or less even spread of both the failed and the canceled campaigns indicates that the eventual failure does not directly depend on the timing of the crowdfunding campaign.
 
-Also comparing the Theater subcategory to the rest of the campaigns in the dataset, one can see that there is an uptick in the Fall for most campaigns while the same kind of an increase in success is not replicated for the Theater. See this link for the general outcomes chart: (https://github.com/mustail/kickstarter-analysis/blob/80523cf572b242ea002926ec398b288b2dcb97d3/Resources/Outcomes_based_on_launch_date.png)
+Also comparing the Theater subcategory to the rest of the campaigns in the dataset, one can see that there is an uptick in the Fall for most campaigns while the same kind of an increase in success is not replicated for the Theater. See the below image for comparison: ![General outcomes](https://github.com/mustail/kickstarter-analysis/blob/3b41f099a20a09c6ae2b5818e2c65ec220992084/Resources/Outcomes_based_on_launch_date.png)
 
 ### Analysis of Outcomes Based on Goals
 
-![Plays Outcomes by Funding Goal](https://github.com/mustail/kickstarter-analysis/blob/689b1fa7a62e47d2b0fa10b3cc8fef07c88342ea/Resources/Outcomes_vs_Goals.png)
 
 There is a clear indication that the lower the funding goal is, the higher the rate of success. This is true for the most part with the exception of the funding range between $35,000 and $45,000. This is difficult to explain with the data we have at hand, however, as I discuss below under the section "Challenges and Difficulties," there are two few number of campaigns that make up the data for the campaigns with the highest funding goals.  
 
 In the case of failures, the goals-oriented analysis reveals a striking difference compared to my launch date-oriented analysis above. Here, the failure rate is clearly related to the original goals of the campaign.
+
+![Plays Outcomes by Funding Goal](https://github.com/mustail/kickstarter-analysis/blob/689b1fa7a62e47d2b0fa10b3cc8fef07c88342ea/Resources/Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 
