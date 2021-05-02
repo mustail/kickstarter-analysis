@@ -19,7 +19,9 @@ As can be seen from the above chart titled "Theater Outcomes Based on Launch Dat
 
 As for the failed campaigns, while there is a limited correlation between successful campaigns and the failed ones, it can be said that failures were spread more a roughly consistent number of campaigns failed regardless of the launch date. Similarly, a very limited number of campaigns were canceled notwithstanding the timing. This more or less even spread of both the failed and the canceled campaigns indicates that the eventual failure does not directly depend on the timing of the crowdfunding campaign.
 
-Also comparing the Theater subcategory to the rest of the campaigns in the dataset, one can see that there is an uptick in the Fall for most campaigns while the same kind of an increase in success is not replicated for the Theater. See this link for the general outcomes chart: (https://github.com/mustail/kickstarter-analysis/blob/80523cf572b242ea002926ec398b288b2dcb97d3/Resources/Outcomes_based_on_launch_date.png)
+Also comparing the Theater subcategory to the rest of the campaigns in the dataset, one can see that there is an uptick in the Fall for most campaigns while the same kind of an increase in success is not replicated for the Theater. See this link for the general outcomes chart:(Resources/Outcomes_based_on_launch_date.png)
+
+(https://github.com/mustail/kickstarter-analysis/blob/80523cf572b242ea002926ec398b288b2dcb97d3/Resources/Outcomes_based_on_launch_date.png)
 
 ### Analysis of Outcomes Based on Goals
 
